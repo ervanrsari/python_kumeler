@@ -1,0 +1,32 @@
+{
+    "birlesim": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        50,
+        20,
+        60,
+        30
+    ],
+    "birlesim_suresi": "0.0000040999 saniye",
+    "kesisim": [
+        10,
+        4,
+        5
+    ],
+    "kesisim_suresi": "0.0000020999 saniye",
+    "fark_kume1_kume2": [
+        1,
+        2,
+        3,
+        20,
+        30
+    ],
+    "fark_kume1_suresi": "0.0000017001 saniye"
+}
