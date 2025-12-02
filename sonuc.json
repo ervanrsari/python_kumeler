@@ -14,13 +14,13 @@
         60,
         30
     ],
-    "birlesim_suresi": "0.0000040999 saniye",
+    "birlesim_suresi": "0.0000046000 saniye",
     "kesisim": [
         10,
         4,
         5
     ],
-    "kesisim_suresi": "0.0000020999 saniye",
+    "kesisim_suresi": "0.0000020000 saniye",
     "fark_kume1_kume2": [
         1,
         2,
@@ -28,5 +28,5 @@
         20,
         30
     ],
-    "fark_kume1_suresi": "0.0000017001 saniye"
+    "fark_kume1_suresi": "0.0000016999 saniye"
 }
